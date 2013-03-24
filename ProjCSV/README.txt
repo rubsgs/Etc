@@ -1,0 +1,1 @@
+Este projeto irá realizar a cópia de dados de um .CSV para um arquivo .XLS(ou talvez até um .CSV mesmo, se eu não achar um meio de criar um arquivo .XLS pelo java) com o intuito de automatizar uma tarefa que realizo durante o dia, e também aprender a manipulação de arquivos com o java.
