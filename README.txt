@@ -1,0 +1,1 @@
+Repositório criado para começar a aprender como se utiliza o GitHub e enviar alguns do projetos que me vem a cabeça durante o dia a dia.
